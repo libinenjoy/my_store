@@ -41,7 +41,7 @@ gem 'spree'
 gem 'spree_usa_epay'
 gem 'spree_skrill'
 gem 'spree_auth'
-gem 'spree_analytics', :git => 'https://github.com/spree/spree_analytics.git'
+#gem 'spree_analytics', :git => 'https://github.com/spree/spree_analytics.git'
 gem 'spree_recently_viewed', :git => 'git://github.com/spree/spree_recently_viewed.git'
 #gem "spree_comments"
 gem "spree_paypal_express", :git => "git://github.com/spree/spree_paypal_express.git"
