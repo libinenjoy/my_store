@@ -44,6 +44,6 @@ gem 'spree_auth'
 #gem 'spree_analytics', :git => 'https://github.com/spree/spree_analytics.git'
 gem 'spree_recently_viewed', :git => 'git://github.com/spree/spree_recently_viewed.git'
 #gem "spree_comments"
-gem "spree_paypal_express", :git => "git://github.com/spree/spree_paypal_express.git"
+#gem "spree_paypal_express", :git => "git://github.com/spree/spree_paypal_express.git"
 gem 'spree_blue_theme', :git => 'git://github.com/spree/spree_blue_theme.git'
 gem 'spree_social_bookmarks', :git => 'https://github.com/wsmedia/Spree-Social-Bookmarks.git'
